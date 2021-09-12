@@ -8,7 +8,7 @@
 This work is more about practising the structure of html(Hyper-text mark-up language) and css(Cascading style sheet). By making these forms i practised basic semantic elements and most importantly the basic structure, design, and layout of a form. Also entered inside of css, touched some animations(animated buttons, e..t.c). Really learnt a lot.
 
  # pictures of my work
- <img src="Form works-1/first form/large1.png">
+ <img src="first form/large1.png">
 
  <img src="Form works-1/first form/small1.png">
             

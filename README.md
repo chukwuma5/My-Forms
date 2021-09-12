@@ -44,8 +44,8 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
             
    ## Installations
    -For those Farmiliar with Git-hub you can clone the repo and pull to your local workplace to view.
-   -For those who ant to view you can download the first file from here [https://jmp.sh/r6lQatu], to view Thank you once again.
-   -For those who ant to view you can download the second file from here [https://jmp.sh/r6lQatu], to view Thank you once again.
+   -For those who ant to view you can download the first file from here [https://jmp.sh/eM7zZu2], to view Thank you once again.
+   -For those who ant to view you can download the second file from here [https://jmp.sh/rFQ1IuQ], to view Thank you once again.
 
             
 

@@ -29,6 +29,7 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
          - PRACTISE ON HOW TO USE FRONT SIZE TO ENSURE BEAUTIFUL AND MEANINGFUL LAYOUT OF WEBSITE.            
 
  ##DIFFERENT SIZES##
+ 
  <img src="second form/small5.png">
 
  <img src="second form/small3.png">

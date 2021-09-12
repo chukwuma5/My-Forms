@@ -10,7 +10,7 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
  # pictures of my work
  <img src="first form/large1.png">
 
- <img src="Form works-1/first form/small1.png">
+ <img src="first form/small1.png">
             
    ##process##           
             THIS FILE IS FOR PRACTISE OF BASIC HTML
@@ -18,7 +18,9 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
          OVERVIEW(/.html/)
          - PRACTISED BUILDING WITH SEMANTIC ELEMENTS WHICH ADD A SPECIAL OR ADDITIONAL MEANING TO OUR WEBSITE.
          - THE USE OF LINK TAGS AND PRACTICING LINKING OF MY SCRIPTS(Both java-script and cascading style-sheet)
- <img src="Form works-1/second form/large2.png">
+ <img src="second form/large2.png">
+ 
+ <img src="first form/small2.png">
          
           OVERVIEW(/.css/)
          - PRACTISE DESIGNING OF FORMS, WITH STYLED PLACEHOLDER, BUTTONS, AND HOVER-EFFECTS.
@@ -27,9 +29,9 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
          - PRACTISE ON HOW TO USE FRONT SIZE TO ENSURE BEAUTIFUL AND MEANINGFUL LAYOUT OF WEBSITE.            
 
  ##DIFFERENT SIZES##
- <img src="Form works-1/second form/small5.png">
+ <img src="second form/small5.png">
 
- <img src="Form works-1/second form/small3.png">
+ <img src="second form/small3.png">
 
    # Built with         
       -HTML(Hypertext Mark-up Language)

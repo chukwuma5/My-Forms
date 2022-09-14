@@ -8,9 +8,9 @@
 This work is more about practising the structure of html(Hyper-text mark-up language) and css(Cascading style sheet). By making these forms i practised basic semantic elements and most importantly the basic structure, design, and layout of a form. Also entered inside of css, touched some animations(animated buttons, e..t.c). Really learnt a lot.
 
  # pictures of my work
- <img src="Form works-1/first form/large1.png">
+ <img src="first form/large1.png">
 
- <img src="Form works-1/first form/small1.png">
+ <img src="first form/small1.png">
             
    ##process##           
             THIS FILE IS FOR PRACTISE OF BASIC HTML
@@ -18,7 +18,9 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
          OVERVIEW(/.html/)
          - PRACTISED BUILDING WITH SEMANTIC ELEMENTS WHICH ADD A SPECIAL OR ADDITIONAL MEANING TO OUR WEBSITE.
          - THE USE OF LINK TAGS AND PRACTICING LINKING OF MY SCRIPTS(Both java-script and cascading style-sheet)
- <img src="Form works-1/second form/large2.png">
+ <img src="second form/large2.png">
+ 
+ <img src="first form/small2.png">
          
           OVERVIEW(/.css/)
          - PRACTISE DESIGNING OF FORMS, WITH STYLED PLACEHOLDER, BUTTONS, AND HOVER-EFFECTS.
@@ -27,9 +29,10 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
          - PRACTISE ON HOW TO USE FRONT SIZE TO ENSURE BEAUTIFUL AND MEANINGFUL LAYOUT OF WEBSITE.            
 
  ##DIFFERENT SIZES##
- <img src="Form works-1/second form/small5.png">
+ 
+ <img src="second form/small5.png">
 
- <img src="Form works-1/second form/small3.png">
+ <img src="second form/small3.png">
 
    # Built with         
       -HTML(Hypertext Mark-up Language)
@@ -41,8 +44,10 @@ This work is more about practising the structure of html(Hyper-text mark-up lang
             
    ## Installations
    -For those Farmiliar with Git-hub you can clone the repo and pull to your local workplace to view.
-   -For those who ant to view you can download the first file from here [https://jmp.sh/r6lQatu], to view Thank you once again.
-   -For those who ant to view you can download the second file from here [https://jmp.sh/r6lQatu], to view Thank you once again.
+   
+   -For those who ant to view you can download the first file from here [https://jmp.sh/eM7zZu2], to view Thank you once again.
+   
+   -For those who ant to view you can download the second file from here [https://jmp.sh/rFQ1IuQ], to view Thank you once again.
 
             
 
